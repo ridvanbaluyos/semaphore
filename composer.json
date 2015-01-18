@@ -1,0 +1,33 @@
+{
+    "name": "ridvanbaluyos/semaphore",
+    "version": "v0.1",
+    "description": "A Laravel 4.2 Package for the Sempahore SMS API.",
+    "type": "laravel-package",
+    "license": "MIT",
+    "keywords": [
+        "sms",
+        "philippines",
+        "semaphore",
+        "laravel",
+        "api"
+    ],
+    "authors": [
+        {
+            "name": "ridvanbaluyos",
+            "email": "ridvan@baluyos.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Ridvanbaluyos\\Semaphore\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
