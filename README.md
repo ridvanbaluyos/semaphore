@@ -12,7 +12,7 @@ A Semaphore API package for Laravel 4.2
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-    - [Sending SMS](#sending-sms-from-users)
+    - [Sending to SMS](#sending-sms-to-users)
     - [Account Status](#account-status)
     - [Message Logs](#message-logs)
 
