@@ -1,4 +1,4 @@
-ridvanbaluyos/chikka
+ridvanbaluyos/semaphore
 =======
 
 A Semaphore API package for Laravel 4.2
