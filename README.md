@@ -6,7 +6,7 @@ A Semaphore API package for Laravel 4.2
 > This package makes use of the [Semaphore SMS API](http://http://semaphore.co/).<br />
 
 <br />
-[![Latest Stable Version](https://poser.pugx.org/ridvanbaluyos/semaphore/v/stable.svg)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![Total Downloads](https://poser.pugx.org/ridvanbaluyos/semaphore/downloads.svg)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![Latest Unstable Version](https://poser.pugx.org/ridvanbaluyos/semaphore/v/unstable.svg)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![License](https://poser.pugx.org/ridvanbaluyos/semaphore/license.svg)](https://packagist.org/packages/ridvanbaluyos/semaphore)
+[![Latest Stable Version](https://poser.pugx.org/ridvanbaluyos/semaphore/v/stable)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![Total Downloads](https://poser.pugx.org/ridvanbaluyos/semaphore/downloads)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![Latest Unstable Version](https://poser.pugx.org/ridvanbaluyos/semaphore/v/unstable)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![License](https://poser.pugx.org/ridvanbaluyos/semaphore/license)](https://packagist.org/packages/ridvanbaluyos/semaphore)
 
 ## Table of contents ##
 - [Installation](#installation)
