@@ -7,6 +7,7 @@ A Semaphore API package for Laravel 4.2
 
 <br />
 [![Latest Stable Version](https://poser.pugx.org/ridvanbaluyos/semaphore/v/stable)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![Total Downloads](https://poser.pugx.org/ridvanbaluyos/semaphore/downloads)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![Latest Unstable Version](https://poser.pugx.org/ridvanbaluyos/semaphore/v/unstable)](https://packagist.org/packages/ridvanbaluyos/semaphore) [![License](https://poser.pugx.org/ridvanbaluyos/semaphore/license)](https://packagist.org/packages/ridvanbaluyos/semaphore)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a00a62b826474e7e929a65adfc8f1df4)](https://www.codacy.com/app/ewoklabs/semaphore?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ridvanbaluyos/semaphore&amp;utm_campaign=Badge_Grade)
 
 ## Table of contents ##
 - [Installation](#installation)
